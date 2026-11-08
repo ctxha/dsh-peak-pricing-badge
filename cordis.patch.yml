@@ -1,0 +1,3 @@
+- insert:
+    - id: peak-pricing-badge
+      name: '@local/peak-pricing-badge'

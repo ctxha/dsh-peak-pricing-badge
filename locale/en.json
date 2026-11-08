@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Peak pricing badge",
+    "description": "Shows whether DeepSeek API usage is billed at peak or off-peak rates, counting down to the next switch and keeping the Chinese public-holiday calendar in sync automatically."
+  }
+}
